@@ -1,0 +1,16 @@
+{
+  "name": "supreme-leader-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp Bot by Supreme Leader",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.5.0",
+    "qrcode-terminal": "^0.12.0",
+    "pino": "^8.17.2",
+    "fs": "0.0.1-security",
+    "node-cron": "^3.0.3"
+  }
+}
